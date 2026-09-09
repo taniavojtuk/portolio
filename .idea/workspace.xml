@@ -1,4 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88a91878-2389-434b-bd99-7cf701c2ad8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_site.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_site.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/vojtu/WebstormProjects/untitled1" value="3Ie2hY7Vhv56z3VwpmXQQy3h7w3" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000001988324" />
+      <entry key="S10" value="1.000044590626646" />
+      <entry key="S30" value="1.0354607452481155" />
+      <entry key="S60" value="1.1883102993878165" />
+      <entry key="M2" value="1.4346983458699312" />
+      <entry key="M5" value="1.9263901660380127" />
+      <entry key="M10" value="3.221942640546824" />
+      <entry key="M15" value="4.467620098494033" />
+      <entry key="M30" value="6.7579992859856235" />
+      <entry key="H1" value="8.556847073609209" />
+      <entry key="H2" value="9.941953865887175" />
+      <entry key="H4" value="12.880220079034645" />
+      <entry key="D1" value="30.49242180015959" />
+      <entry key="W1" value="39.20379438841958" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.848430190130991E-218" />
+      <entry key="M2" value="2.4937687251040028E-109" />
+      <entry key="M5" value="9.431261693101703E-44" />
+      <entry key="M10" value="8.015934868270485E-22" />
+      <entry key="M15" value="1.691492338374377E-14" />
+      <entry key="M30" value="3.6407130434697563E-7" />
+      <entry key="H1" value="0.0017076709649521673" />
+      <entry key="H2" value="0.11898693057406748" />
+      <entry key="H4" value="1.0144460309306544" />
+      <entry key="D1" value="6.228313602741623" />
+      <entry key="W1" value="8.537802382178723" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.23325824788420185" />
+      <entry key="MS500" value="0.7474246243174691" />
+      <entry key="S2" value="0.9298049426131618" />
+      <entry key="S5" value="0.971307497480687" />
+      <entry key="S10" value="0.9855933716283009" />
+      <entry key="S30" value="1.0304724803125722" />
+      <entry key="S60" value="1.1854938804513775" />
+      <entry key="M2" value="1.4330325585345833" />
+      <entry key="M5" value="1.9255987613138676" />
+      <entry key="M10" value="3.2215005397208225" />
+      <entry key="M15" value="4.467305489297565" />
+      <entry key="M30" value="6.757826507591814" />
+      <entry key="H1" value="8.55846184022484" />
+      <entry key="H2" value="10.060873414160506" />
+      <entry key="H4" value="13.894559376025038" />
+      <entry key="D1" value="36.72064842142428" />
+      <entry key="W1" value="47.74158002311656" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ie2hMX5JMV90rcjIFSKzm2PNpx" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/vojtu/WebstormProjects/untitled1/src/video/аксесуари",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\vojtu\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\video\аксесуари" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\video\аі-персонажі" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\object" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\photo\парфуми" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\photo\косметика" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\photo\аі-персонажі" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1\src\photo\аксесуари" />
+      <recent name="C:\Users\vojtu\WebstormProjects\untitled1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10315.144" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88a91878-2389-434b-bd99-7cf701c2ad8a" name="Changes" comment="" />
+      <created>1788110832775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788110832775</updated>
+      <workItem from="1788110833611" duration="8931000" />
+      <workItem from="1788950598904" duration="2700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
